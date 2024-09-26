@@ -2,12 +2,12 @@
 # Откомментируйте настройки, чтобы использовать их по умолчанию
 
 # MKRC ?= latexmkrc # config file
-# SOURCE ?= dissertation # source .tex file
-# BACKEND ?= -pdfxe
+SOURC ?= dissertation # source .tex file
+BACKEND ?= -pdfxe
 ## -pdf=pdflatex
 ## -pdfdvi=pdflatex with dvi
 ## -pdfps=pdflatex with ps
-## -pdfxe=xelatex with dvi (faster than -xelatex)
+-pdfxe=xelatex with dvi (faster than -xelatex)
 ## -xelatex=xelatex without dvi
 ## -pdflua=lualatex with dvi  (faster than -lualatex)
 ## -lualatex=lualatex without dvi
@@ -16,7 +16,7 @@
 # SHOWMARKUP ?= # 1=on;0=off
 # FONTFAMILY ?= # 0=CMU;1=MS fonts;2=Liberation fonts
 # ALTFONT ?= # 0=Computer Modern;1=pscyr;2=XCharter
-# USEBIBER ?= # 0=bibtex8;1=biber
+USEBIBER ?= 1 # 0=bibtex8;1=biber
 # USEFOOTCITE ?= # 0=no;1=yes
 # BIBGROUPED ?= # 0=no;1=yes
 # IMGCOMPILE ?= # 1=on;0=off
