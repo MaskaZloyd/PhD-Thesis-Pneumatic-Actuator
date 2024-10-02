@@ -1,0 +1,2014 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global/global}
+    \entry{AHN2005683}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=75b3de8c5b1d5f194b068cd6ec5672ce}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Kyoungkwan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4bb66bb73ececfea126a398c6c90eb8b}{%
+           family={Yokota},
+           familyi={Y\bibinitperiod},
+           given={Shinichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f530475b736e7028f79a0cd7792ed8dd}
+      \strng{fullhash}{f530475b736e7028f79a0cd7792ed8dd}
+      \strng{fullhashraw}{f530475b736e7028f79a0cd7792ed8dd}
+      \strng{bibnamehash}{f530475b736e7028f79a0cd7792ed8dd}
+      \strng{authorbibnamehash}{f530475b736e7028f79a0cd7792ed8dd}
+      \strng{authornamehash}{f530475b736e7028f79a0cd7792ed8dd}
+      \strng{authorfullhash}{f530475b736e7028f79a0cd7792ed8dd}
+      \strng{authorfullhashraw}{f530475b736e7028f79a0cd7792ed8dd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{15}
+      \field{journaltitle}{Mechatronics}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Intelligent switching control of pneumatic actuator using on/off solenoid valves}
+      \field{year}{2005}
+      \field{number}{6}
+      \range{number}{1}
+      \field{pages}{683\bibrangedash 702}
+      \range{pages}{20}
+      \field{volume}{15}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.mechatronics.2005.01.001
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Zhonglin}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=c1762512a7ba238744b14871dc3fc6ca}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zhonglin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=366d7aec3366d39e86201251307074db}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Tianhong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4d7e559889186dffb2c792e8438356c8}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=5b8562eb66a12baf891c9b8777aa12c2}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Qingyan},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{cb7c3bbccb1f8bbc26595304868898eb}
+      \strng{authornamehash}{cb7c3bbccb1f8bbc26595304868898eb}
+      \strng{authorfullhash}{8010d32e36cf83f1fed10516f4041878}
+      \strng{authorfullhashraw}{8010d32e36cf83f1fed10516f4041878}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{40}
+      \field{journaltitle}{Journal of the Brazilian Society of Mechanical Sciences and Engineering}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Electro-pneumatic position tracking control system based on an intelligent phase-change PWM strategy}
+      \field{year}{2018}
+      \field{number}{512}
+      \range{number}{1}
+      \field{volume}{40}
+      \range{volume}{1}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{pr11092544}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=bbc72c6824a98475efac68129eb2c6f6}{%
+           family={Jianbo},
+           familyi={J\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9979e7c606c1876cb09cf32b78628d71}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Shi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ab6b7ed8e3023bbd27b949353399516f}{%
+           family={Xianyu},
+           familyi={X\bibinitperiod},
+           given={Meng},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{699574f7b5a467f468f6995f758253c5}
+      \strng{fullhash}{699574f7b5a467f468f6995f758253c5}
+      \strng{fullhashraw}{699574f7b5a467f468f6995f758253c5}
+      \strng{bibnamehash}{699574f7b5a467f468f6995f758253c5}
+      \strng{authorbibnamehash}{699574f7b5a467f468f6995f758253c5}
+      \strng{authornamehash}{699574f7b5a467f468f6995f758253c5}
+      \strng{authorfullhash}{699574f7b5a467f468f6995f758253c5}
+      \strng{authorfullhashraw}{699574f7b5a467f468f6995f758253c5}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{11}
+      \field{journaltitle}{Processes}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Pneumatic Noise Study of Multi-Stage Sleeve Control Valve}
+      \field{year}{2023}
+      \field{number}{9}
+      \range{number}{1}
+      \field{volume}{11}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/pr11092544
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Varseveld:article1}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=9171747ee268033a45146d6c7b9f541e}{%
+           family={Kawamura},
+           familyi={K\bibinitperiod},
+           given={Sadao},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e874df46a2f4c44f894fb4b86d5d7728}{%
+           family={Miyata},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=158bf96accb2213acafac3986b50f57c}{%
+           family={Hanafusa},
+           familyi={H\bibinitperiod},
+           given={Hideo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \strng{fullhash}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \strng{fullhashraw}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \strng{bibnamehash}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \strng{authorbibnamehash}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \strng{authornamehash}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \strng{authorfullhash}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \strng{authorfullhashraw}{f802cfa9cdc1a2ca785e27105cd5a45c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1989 IEEE International Conference on Robotics and Automation}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{PI type hierarchical feedback control scheme for pneumatic robots}
+      \field{year}{1989}
+      \field{pages}{1853\bibrangedash 1858}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ROBOT.1989.100243
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Varseveld:article3}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=92faacc6874983183ce7fb86e39f31ec}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8aac4076f27aaf9a178297cc0a7c8f00}{%
+           family={Bobrow},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \strng{fullhash}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \strng{fullhashraw}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \strng{bibnamehash}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \strng{authorbibnamehash}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \strng{authornamehash}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \strng{authorfullhash}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \strng{authorfullhashraw}{faf5fd91dd3536a187ecb9b3f9e61bd5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{110}
+      \field{journaltitle}{Journal of Dynamic Systems Measurement and Control-transactions of The Asme}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{An Analysis of a Pneumatic Servo System and Its Application to a Computer-Controlled Robot}
+      \field{year}{1988}
+      \field{pages}{228\bibrangedash 235}
+      \range{pages}{8}
+      \field{volume}{110}
+      \range{volume}{1}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Truong}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=0669c4313d474097eba8ffa250727af5}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Truong\bibnamedelima Khai},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0669c4313d474097eba8ffa250727af5}
+      \strng{fullhash}{0669c4313d474097eba8ffa250727af5}
+      \strng{fullhashraw}{0669c4313d474097eba8ffa250727af5}
+      \strng{bibnamehash}{0669c4313d474097eba8ffa250727af5}
+      \strng{authorbibnamehash}{0669c4313d474097eba8ffa250727af5}
+      \strng{authornamehash}{0669c4313d474097eba8ffa250727af5}
+      \strng{authorfullhash}{0669c4313d474097eba8ffa250727af5}
+      \strng{authorfullhashraw}{0669c4313d474097eba8ffa250727af5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE/ASME Transactions on Mechatronics}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Accurate Sliding-Mode Control of Pneumatic Systems Using Low-Cost Solenoid Valves}
+      \field{year}{2007}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Varseveld:article2}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=83f0043f1cd80d5614fb33f577147a27}{%
+           family={Pu},
+           familyi={P\bibinitperiod},
+           given={Jun-Sheng},
+           giveni={J\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=6dfc43300b38d4fa0ee0878c92ec782f}{%
+           family={Weston},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa94a2427df18a0ca67631ef1f38966a}
+      \strng{fullhash}{aa94a2427df18a0ca67631ef1f38966a}
+      \strng{fullhashraw}{aa94a2427df18a0ca67631ef1f38966a}
+      \strng{bibnamehash}{aa94a2427df18a0ca67631ef1f38966a}
+      \strng{authorbibnamehash}{aa94a2427df18a0ca67631ef1f38966a}
+      \strng{authornamehash}{aa94a2427df18a0ca67631ef1f38966a}
+      \strng{authorfullhash}{aa94a2427df18a0ca67631ef1f38966a}
+      \strng{authorfullhashraw}{aa94a2427df18a0ca67631ef1f38966a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{12}
+      \field{journaltitle}{Microprocess. Microsystems}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Motion control of pneumatic drives}
+      \field{year}{1988}
+      \field{pages}{373\bibrangedash 382}
+      \range{pages}{10}
+      \field{volume}{12}
+      \range{volume}{1}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Shiee}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=d2f8fd31b5ffaeb6c192ca64d25c1554}{%
+           family={Shiee},
+           familyi={S\bibinitperiod},
+           given={Mohsen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ce6b7cba5818037e6acf108a874ec529}{%
+           family={Sharifi},
+           familyi={S\bibinitperiod},
+           given={Arman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6c7d64ee7feb4fbcc46349ed881f33b1}{%
+           family={Fathi},
+           familyi={F\bibinitperiod},
+           given={Morteza},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \strng{fullhash}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \strng{fullhashraw}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \strng{bibnamehash}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \strng{authorbibnamehash}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \strng{authornamehash}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \strng{authorfullhash}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \strng{authorfullhashraw}{8f0911e40a27fa72caa6b36d836fcc8b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{82}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{month}{07}
+      \field{title}{An experimental comparison of PWM schemes to improve positioning of servo pneumatic systems}
+      \field{year}{2015}
+      \field{volume}{82}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s00170-015-7501-8
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Elsayed}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=a850c257d7ea19be7f7751b8e16d115c}{%
+           family={Elsayed},
+           familyi={E\bibinitperiod},
+           given={Yasser},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=aac24ec3f30e1b57d2de64b4c7247251}{%
+           family={Hammam},
+           familyi={H\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c554c45af1d7b66a0c9a718b9b918048}{%
+           family={Mousa},
+           familyi={M\bibinitperiod},
+           given={Gamal},
+           giveni={G\bibinitperiod}}}%
+        {{hash=282cc9b54735cdf6574b8ec5b5a26f45}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Abdul},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{bc7712bc0ba39a73d56378cd53a70d9a}
+      \strng{authornamehash}{bc7712bc0ba39a73d56378cd53a70d9a}
+      \strng{authorfullhash}{6124b519bd52050bb872b9c629bef5c3}
+      \strng{authorfullhashraw}{6124b519bd52050bb872b9c629bef5c3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Port-Said Engineering Research Journal}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{month}{04}
+      \field{title}{Simulation Study and Experimental Position Control of Pneumatic Cylinder Using Sliding Mode Control with on/off Control Valves}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.21608/pserj.2020.22883.1030
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Hodgson:article1}{inproceedings}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=1e19838f61a5525275e6d1d61b2fe6c1}{%
+           family={Hodgson},
+           familyi={H\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3c23b3f7e328a30cc1eff6ad89c8346e}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Minh\bibnamedelima Quyen},
+           giveni={M\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=8824d822d9401ecfda06a083c4d750e6}{%
+           family={Tavakoli},
+           familyi={T\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cbae76e25c1d13696da27aac257d01b1}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Mihn\bibnamedelima Tu},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{authorbibnamehash}{30e1bd1efed1feed86b2e6d858eb6dfc}
+      \strng{authornamehash}{30e1bd1efed1feed86b2e6d858eb6dfc}
+      \strng{authorfullhash}{2b8b98c7906b5413d75bcaba84a2fbc4}
+      \strng{authorfullhashraw}{2b8b98c7906b5413d75bcaba84a2fbc4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE/RSJ International Conference on Intelligent Robots and Systems}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Sliding-Mode Control of Nonlinear Discrete-Input Pneumatic Actuator}
+      \field{year}{2011}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Tran:pwm}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0188359b2d884e55153014021f15bfc1}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Tran\bibnamedelima Dinh},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8b0546abb569a8367ce4f4817a7a2272}{%
+           family={Bo},
+           familyi={B\bibinitperiod},
+           given={Tran\bibnamedelima Xuan},
+           giveni={T\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b942f56730c3cdeb6cf10c801bf02df}
+      \strng{fullhash}{5b942f56730c3cdeb6cf10c801bf02df}
+      \strng{fullhashraw}{5b942f56730c3cdeb6cf10c801bf02df}
+      \strng{bibnamehash}{5b942f56730c3cdeb6cf10c801bf02df}
+      \strng{authorbibnamehash}{5b942f56730c3cdeb6cf10c801bf02df}
+      \strng{authornamehash}{5b942f56730c3cdeb6cf10c801bf02df}
+      \strng{authorfullhash}{5b942f56730c3cdeb6cf10c801bf02df}
+      \strng{authorfullhashraw}{5b942f56730c3cdeb6cf10c801bf02df}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{32}
+      \field{journaltitle}{JST: Smart Systems and Devices}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{A Method for Improving Position Control Performances of a Pneumatic Cylinder Using On-Off Solenoid Valves}
+      \field{year}{2022}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{34\bibrangedash 41}
+      \range{pages}{8}
+      \field{volume}{32}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.51316/jst.155.ssad.2022.32.1.5
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Surgenor1997ContinuousSM}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b9cf8c668823b2aa1615a3609b63be48}{%
+           family={Surgenor},
+           familyi={S\bibinitperiod},
+           given={Brian\bibnamedelima W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=67d81494d2abcfb0e180dee9c83b824c}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={Nicholas\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{628a6975bcf05ed251439244042acd0d}
+      \strng{fullhash}{628a6975bcf05ed251439244042acd0d}
+      \strng{fullhashraw}{628a6975bcf05ed251439244042acd0d}
+      \strng{bibnamehash}{628a6975bcf05ed251439244042acd0d}
+      \strng{authorbibnamehash}{628a6975bcf05ed251439244042acd0d}
+      \strng{authornamehash}{628a6975bcf05ed251439244042acd0d}
+      \strng{authorfullhash}{628a6975bcf05ed251439244042acd0d}
+      \strng{authorfullhashraw}{628a6975bcf05ed251439244042acd0d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{119}
+      \field{journaltitle}{Journal of Dynamic Systems Measurement and Control-transactions of The Asme}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Continuous Sliding Mode Control of a Pneumatic Actuator}
+      \field{year}{1997}
+      \field{pages}{578\bibrangedash 581}
+      \range{pages}{4}
+      \field{volume}{119}
+      \range{volume}{1}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{utkin2017sliding}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=3bf143782f2ce24b28448054491a144b}{%
+           family={Utkin},
+           familyi={U\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3227b75a723227791b285275dc555d4a}{%
+           family={Guldner},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3b3d8a7d315744c8cea7f094e48581d2}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{d5621c07995a72ea50cc66d8576aff9f}
+      \strng{fullhash}{d5621c07995a72ea50cc66d8576aff9f}
+      \strng{fullhashraw}{d5621c07995a72ea50cc66d8576aff9f}
+      \strng{bibnamehash}{d5621c07995a72ea50cc66d8576aff9f}
+      \strng{authorbibnamehash}{d5621c07995a72ea50cc66d8576aff9f}
+      \strng{authornamehash}{d5621c07995a72ea50cc66d8576aff9f}
+      \strng{authorfullhash}{d5621c07995a72ea50cc66d8576aff9f}
+      \strng{authorfullhashraw}{d5621c07995a72ea50cc66d8576aff9f}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781351834865}
+      \field{media}{text}
+      \field{series}{Automation and Control Engineering}
+      \field{title}{Sliding Mode Control in Electro-Mechanical Systems}
+      \field{year}{2017}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{pwm:Varseveld}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=7a377059de2557779596719d67d43c00}{%
+           family={Varseveld},
+           familyi={V\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=843f775627710d593511277ddaf390db}{%
+           family={Bone},
+           familyi={B\bibinitperiod},
+           given={Gary\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b015b254378c7ac87be82796c31efda1}
+      \strng{fullhash}{b015b254378c7ac87be82796c31efda1}
+      \strng{fullhashraw}{b015b254378c7ac87be82796c31efda1}
+      \strng{bibnamehash}{b015b254378c7ac87be82796c31efda1}
+      \strng{authorbibnamehash}{b015b254378c7ac87be82796c31efda1}
+      \strng{authornamehash}{b015b254378c7ac87be82796c31efda1}
+      \strng{authorfullhash}{b015b254378c7ac87be82796c31efda1}
+      \strng{authorfullhashraw}{b015b254378c7ac87be82796c31efda1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE/ASME Transactions on Mechatronics}
+      \field{internalsortvolume}{2}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Accurate position control of a pneumatic actuator using on/off solenoid valves}
+      \field{year}{1997}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{195\bibrangedash 204}
+      \range{pages}{10}
+      \field{volume}{2}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1109/3516.622972
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{артболевский:теория_механизмов_машин}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=fde7d8e889436875d2979aebd36a7f67}{%
+           family={Артболевский},
+           familyi={А\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М., Гостехиздат}%
+      }
+      \strng{namehash}{fde7d8e889436875d2979aebd36a7f67}
+      \strng{fullhash}{fde7d8e889436875d2979aebd36a7f67}
+      \strng{fullhashraw}{fde7d8e889436875d2979aebd36a7f67}
+      \strng{bibnamehash}{fde7d8e889436875d2979aebd36a7f67}
+      \strng{authorbibnamehash}{fde7d8e889436875d2979aebd36a7f67}
+      \strng{authornamehash}{fde7d8e889436875d2979aebd36a7f67}
+      \strng{authorfullhash}{fde7d8e889436875d2979aebd36a7f67}
+      \strng{authorfullhashraw}{fde7d8e889436875d2979aebd36a7f67}
+      \field{sortinit}{А}
+      \field{sortinithash}{9db8541854f3671fde760253476fbbdb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Теория механизмов и машин}
+      \field{year}{1953}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{божкова:повышение_быстродействия}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=55c3c71ac97c1f763bbedb28b0e4ace4}{%
+           family={Божкова},
+           familyi={Б\bibinitperiod},
+           given={Л.\bibnamedelimi В.},
+           giveni={Л\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=2636bc70dcdcc3c80e427d345f75837a}{%
+           family={Дащенко},
+           familyi={Д\bibinitperiod},
+           given={О.\bibnamedelimi А.},
+           giveni={О\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \strng{fullhash}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \strng{fullhashraw}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \strng{bibnamehash}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \strng{authorbibnamehash}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \strng{authornamehash}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \strng{authorfullhash}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \strng{authorfullhashraw}{7b832a39b69d04bd1b4c2bc2c1b92712}
+      \field{sortinit}{Б}
+      \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Вестник машиностроения}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Повышение производительности промышленного робота с пневмоприводом и цикловой системой управления}
+      \field{year}{1992}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{16\bibrangedash 21}
+      \range{pages}{6}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{бухарин}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e84b900b2fc176bfa2afe27ef3077bf3}{%
+           family={Бухарин},
+           familyi={Б\bibinitperiod},
+           given={Н.\bibnamedelimi А.},
+           giveni={Н\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Наркомхоза}%
+      }
+      \strng{namehash}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \strng{fullhash}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \strng{fullhashraw}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \strng{bibnamehash}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \strng{authorbibnamehash}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \strng{authornamehash}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \strng{authorfullhash}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \strng{authorfullhashraw}{e84b900b2fc176bfa2afe27ef3077bf3}
+      \field{sortinit}{Б}
+      \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Основы проектирования механизмов автоматического управления автомобилем}
+      \field{year}{1941}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{german:a}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c4654bb9828957e768b2fc61d1e1dd6}{%
+           family={Герман},
+           familyi={Г\bibinitperiod},
+           given={А.\bibnamedelimi П.},
+           giveni={А\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Москва}%
+      }
+      \list{publisher}{1}{%
+        {Горно-геол.-нефт. изд-во}%
+      }
+      \strng{namehash}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \strng{fullhash}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \strng{fullhashraw}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \strng{bibnamehash}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \strng{authorbibnamehash}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \strng{authornamehash}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \strng{authorfullhash}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \strng{authorfullhashraw}{9c4654bb9828957e768b2fc61d1e1dd6}
+      \field{sortinit}{Г}
+      \field{sortinithash}{c5a772f362f759c048c1f27b275f0dbf}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{media}{text}
+      \field{title}{Применение сжатого воздуха в горном деле}
+      \field{year}{1933}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{герц:групповой_привод}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=bfe2cd1043d3a30f1d8f713a912db233}{%
+           family={Герц},
+           familyi={Г\bibinitperiod},
+           given={Е.\bibnamedelimi В.},
+           giveni={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=02fbfba686ea79a0312063badb0c721d}{%
+           family={Долженков},
+           familyi={Д\bibinitperiod},
+           given={Б.\bibnamedelimi П.},
+           giveni={Б\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Машиностроение}%
+      }
+      \strng{namehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{fullhash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{fullhashraw}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{bibnamehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authorbibnamehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authornamehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authorfullhash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authorfullhashraw}{5e2712cd69dc013705e66cce73591d8c}
+      \field{extraname}{1}
+      \field{sortinit}{Г}
+      \field{sortinithash}{c5a772f362f759c048c1f27b275f0dbf}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Пневматика и гидравлика. Приводы и системы управления.}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Динамика группового высокоскоростного пневмопривода с механически пуском}
+      \field{year}{1975}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{12\bibrangedash 21}
+      \range{pages}{10}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{герц:скоростной_привод}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=bfe2cd1043d3a30f1d8f713a912db233}{%
+           family={Герц},
+           familyi={Г\bibinitperiod},
+           given={Е.\bibnamedelimi В.},
+           giveni={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=02fbfba686ea79a0312063badb0c721d}{%
+           family={Долженков},
+           familyi={Д\bibinitperiod},
+           given={Б.\bibnamedelimi П.},
+           giveni={Б\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{fullhash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{fullhashraw}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{bibnamehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authorbibnamehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authornamehash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authorfullhash}{5e2712cd69dc013705e66cce73591d8c}
+      \strng{authorfullhashraw}{5e2712cd69dc013705e66cce73591d8c}
+      \field{extraname}{2}
+      \field{sortinit}{Г}
+      \field{sortinithash}{c5a772f362f759c048c1f27b275f0dbf}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Станки и инструмент}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{выбор параметров быстродействующего привода}
+      \field{year}{1977}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{12\bibrangedash 17}
+      \range{pages}{6}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{гинзбург:прикладная_газодинамика}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6180f893f33fbfcdcae0758042cdd679}{%
+           family={Гинзбург},
+           familyi={Г\bibinitperiod},
+           given={И.\bibnamedelimi П.},
+           giveni={И\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Изд. ЛГУ}%
+      }
+      \strng{namehash}{6180f893f33fbfcdcae0758042cdd679}
+      \strng{fullhash}{6180f893f33fbfcdcae0758042cdd679}
+      \strng{fullhashraw}{6180f893f33fbfcdcae0758042cdd679}
+      \strng{bibnamehash}{6180f893f33fbfcdcae0758042cdd679}
+      \strng{authorbibnamehash}{6180f893f33fbfcdcae0758042cdd679}
+      \strng{authornamehash}{6180f893f33fbfcdcae0758042cdd679}
+      \strng{authorfullhash}{6180f893f33fbfcdcae0758042cdd679}
+      \strng{authorfullhashraw}{6180f893f33fbfcdcae0758042cdd679}
+      \field{sortinit}{Г}
+      \field{sortinithash}{c5a772f362f759c048c1f27b275f0dbf}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Прикладная газодинамика}
+      \field{year}{1958}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{kasimov:b}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=9223a54013e2c6be070863e1ec9de314}{%
+           family={Касимов},
+           familyi={К\bibinitperiod},
+           given={А.\bibnamedelimi М.},
+           giveni={А\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=de8d18fe61c10b197ccae873a466e27a}{%
+           family={В.А.\bibnamedelimi Трапезникова\bibnamedelima РАН},
+           familyi={В\bibinitperiod\bibinitdelim Т\bibinitperiod\bibinitdelim Р\bibinitperiod},
+           given={Институт},
+           giveni={И\bibinitperiod},
+           prefix={проблем\bibnamedelimb управления\bibnamedelima им.},
+           prefixi={п\bibinitperiod\bibinitdelim у\bibinitperiod\bibinitdelim и\bibinitperiod}}}%
+      }
+      \strng{namehash}{9223a54013e2c6be070863e1ec9de314}
+      \strng{fullhash}{9223a54013e2c6be070863e1ec9de314}
+      \strng{fullhashraw}{9223a54013e2c6be070863e1ec9de314}
+      \strng{bibnamehash}{9223a54013e2c6be070863e1ec9de314}
+      \strng{authorbibnamehash}{9223a54013e2c6be070863e1ec9de314}
+      \strng{authornamehash}{9223a54013e2c6be070863e1ec9de314}
+      \strng{authorfullhash}{9223a54013e2c6be070863e1ec9de314}
+      \strng{authorfullhashraw}{9223a54013e2c6be070863e1ec9de314}
+      \strng{editorbibnamehash}{de8d18fe61c10b197ccae873a466e27a}
+      \strng{editornamehash}{de8d18fe61c10b197ccae873a466e27a}
+      \strng{editorfullhash}{de8d18fe61c10b197ccae873a466e27a}
+      \strng{editorfullhashraw}{de8d18fe61c10b197ccae873a466e27a}
+      \field{sortinit}{К}
+      \field{sortinithash}{007824ff2af181c6f6762379475efd5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Материалы конференции с международным участием. Институт проблем управления им. Трапезникова РАН}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Развитие пневматических средств автоматизации}
+      \field{year}{2010}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{kasimov:a}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=9223a54013e2c6be070863e1ec9de314}{%
+           family={Касимов},
+           familyi={К\bibinitperiod},
+           given={А.\bibnamedelimi М.},
+           giveni={А\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+        {{hash=76af4bab90dbb38d16075c931ac04eee}{%
+           family={Шубин},
+           familyi={Ш\bibinitperiod},
+           given={А.\bibnamedelimi Н.},
+           giveni={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fff4e5027e2f960502f72dc1bd197a4}
+      \strng{fullhash}{9fff4e5027e2f960502f72dc1bd197a4}
+      \strng{fullhashraw}{9fff4e5027e2f960502f72dc1bd197a4}
+      \strng{bibnamehash}{9fff4e5027e2f960502f72dc1bd197a4}
+      \strng{authorbibnamehash}{9fff4e5027e2f960502f72dc1bd197a4}
+      \strng{authornamehash}{9fff4e5027e2f960502f72dc1bd197a4}
+      \strng{authorfullhash}{9fff4e5027e2f960502f72dc1bd197a4}
+      \strng{authorfullhashraw}{9fff4e5027e2f960502f72dc1bd197a4}
+      \field{sortinit}{К}
+      \field{sortinithash}{007824ff2af181c6f6762379475efd5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Приборы и системы управления}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Некоторые результаты исследований в области пневмоавтоматики}
+      \field{year}{1994}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{34\bibrangedash 37}
+      \range{pages}{4}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{крутиков:способы_торможения_12}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5778f49f2966945446ea332496d3b440}{%
+           family={Крутиков},
+           familyi={К\bibinitperiod},
+           given={Г.\bibnamedelimi А.},
+           giveni={Г\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=d4ca28f9c7edfd42a6ac8b432120cbf5}{%
+           family={Кудрявцев},
+           familyi={К\bibinitperiod},
+           given={А.\bibnamedelimi И.},
+           giveni={А\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=af57339d3cfa74263470573113eb25de}{%
+           family={Пекарь},
+           familyi={П\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c21d9b50addfe0124c709c487a2ac0f}
+      \strng{fullhash}{5c21d9b50addfe0124c709c487a2ac0f}
+      \strng{fullhashraw}{5c21d9b50addfe0124c709c487a2ac0f}
+      \strng{bibnamehash}{5c21d9b50addfe0124c709c487a2ac0f}
+      \strng{authorbibnamehash}{5c21d9b50addfe0124c709c487a2ac0f}
+      \strng{authornamehash}{5c21d9b50addfe0124c709c487a2ac0f}
+      \strng{authorfullhash}{5c21d9b50addfe0124c709c487a2ac0f}
+      \strng{authorfullhashraw}{5c21d9b50addfe0124c709c487a2ac0f}
+      \field{sortinit}{К}
+      \field{sortinithash}{007824ff2af181c6f6762379475efd5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Пневматика и гидравлика}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{К вопросу выбора способа торможения пневмоприводов с большими присоединенными массами}
+      \field{year}{1987}
+      \field{number}{13}
+      \range{number}{1}
+      \field{pages}{60\bibrangedash 71}
+      \range{pages}{12}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{литвин:техническая_термодинамика}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7f3b803fcafa1927f9e2fa84f3f6c772}{%
+           family={Литвин},
+           familyi={Л\bibinitperiod},
+           given={А.\bibnamedelimi М.},
+           giveni={А\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М., Госэнергоиздат}%
+      }
+      \strng{namehash}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \strng{fullhash}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \strng{fullhashraw}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \strng{bibnamehash}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \strng{authorbibnamehash}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \strng{authornamehash}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \strng{authorfullhash}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \strng{authorfullhashraw}{7f3b803fcafa1927f9e2fa84f3f6c772}
+      \field{sortinit}{Л}
+      \field{sortinithash}{408c91708504c4d55e9c1a703c852f82}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Техническая термодинамика}
+      \field{year}{1962}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{мамонтов:вопросы_термодинамики}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1bac261bfa48dd37fd3a6ca7f86f1533}{%
+           family={Мамонтов},
+           familyi={М\bibinitperiod},
+           given={М.\bibnamedelimi А.},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М., Оборонгиз}%
+      }
+      \strng{namehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{fullhash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{fullhashraw}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{bibnamehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authorbibnamehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authornamehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authorfullhash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authorfullhashraw}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \field{extraname}{1}
+      \field{sortinit}{М}
+      \field{sortinithash}{3750e8e5bcd54966a663076166442576}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Вопросы термодинамики тела переменной массы}
+      \field{year}{1961}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{мамонтов:некоторые_случаи_течения_газа}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1bac261bfa48dd37fd3a6ca7f86f1533}{%
+           family={Мамонтов},
+           familyi={М\bibinitperiod},
+           given={М.\bibnamedelimi А.},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М., Оборонгиз}%
+      }
+      \strng{namehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{fullhash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{fullhashraw}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{bibnamehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authorbibnamehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authornamehash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authorfullhash}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \strng{authorfullhashraw}{1bac261bfa48dd37fd3a6ca7f86f1533}
+      \field{extraname}{2}
+      \field{sortinit}{М}
+      \field{sortinithash}{3750e8e5bcd54966a663076166442576}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Некоторые случаи течения газа}
+      \field{year}{1962}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{маркевич}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=fb51ad7559cf18c4e33f9ce8c4c5215e}{%
+           family={Маркевич},
+           familyi={М\bibinitperiod},
+           given={Н.\bibnamedelimi М.},
+           giveni={Н\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \strng{fullhash}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \strng{fullhashraw}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \strng{bibnamehash}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \strng{authorbibnamehash}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \strng{authornamehash}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \strng{authorfullhash}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \strng{authorfullhashraw}{fb51ad7559cf18c4e33f9ce8c4c5215e}
+      \field{sortinit}{М}
+      \field{sortinithash}{3750e8e5bcd54966a663076166442576}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ученые записки ЛГУ. Сер. матем. наук}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Решение задачи о наполнении и опорожнении сосудов переменного объема сжимаемым газом, связанной с расчетом некоторых механизмов управления}
+      \field{year}{1949}
+      \field{number}{17}
+      \range{number}{1}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{парой:способы_торможения}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ba970b107c0767f09ebf5a9db58b7a20}{%
+           family={Парой},
+           familyi={П\bibinitperiod},
+           given={А.\bibnamedelimi А.},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba970b107c0767f09ebf5a9db58b7a20}
+      \strng{fullhash}{ba970b107c0767f09ebf5a9db58b7a20}
+      \strng{fullhashraw}{ba970b107c0767f09ebf5a9db58b7a20}
+      \strng{bibnamehash}{ba970b107c0767f09ebf5a9db58b7a20}
+      \strng{authorbibnamehash}{ba970b107c0767f09ebf5a9db58b7a20}
+      \strng{authornamehash}{ba970b107c0767f09ebf5a9db58b7a20}
+      \strng{authorfullhash}{ba970b107c0767f09ebf5a9db58b7a20}
+      \strng{authorfullhashraw}{ba970b107c0767f09ebf5a9db58b7a20}
+      \field{sortinit}{П}
+      \field{sortinithash}{b60c3989b0a91e15e157f5b4997c35c7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Вестник машиностроения}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Способы торможения пневмопривода промышленного робота}
+      \field{year}{1982}
+      \field{number}{10}
+      \range{number}{1}
+      \field{pages}{16\bibrangedash 21}
+      \range{pages}{6}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{патент:рязанов}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=12ea108cffb3ca0ee32c9df048bbcc8c}{%
+           family={Рязанов},
+           familyi={Р\bibinitperiod},
+           given={Е.\bibnamedelimi А.},
+           giveni={Е\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{12ea108cffb3ca0ee32c9df048bbcc8c}
+      \strng{authornamehash}{12ea108cffb3ca0ee32c9df048bbcc8c}
+      \strng{authorfullhash}{12ea108cffb3ca0ee32c9df048bbcc8c}
+      \strng{authorfullhashraw}{12ea108cffb3ca0ee32c9df048bbcc8c}
+      \field{sortinit}{П}
+      \field{sortinithash}{b60c3989b0a91e15e157f5b4997c35c7}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{СССР}
+      \field{day}{10}
+      \field{heading}{Патент №1044845}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{7}
+      \field{pagetotal}{3 с.~: ил.}
+      \field{publication}{Бюл. № 36}
+      \field{publicationday}{30}
+      \field{publicationmonth}{9}
+      \field{publicationyear}{1983}
+      \field{requestnumber}{3318224/23-06}
+      \field{title}{Позиционный пневмопривод}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{патент:Кистиченко}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=15ad62d8fc1ba14636e36aa56e369dd5}{%
+           family={Кистиченко},
+           familyi={К\bibinitperiod},
+           given={А.\bibnamedelimi А.},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{15ad62d8fc1ba14636e36aa56e369dd5}
+      \strng{authornamehash}{15ad62d8fc1ba14636e36aa56e369dd5}
+      \strng{authorfullhash}{15ad62d8fc1ba14636e36aa56e369dd5}
+      \strng{authorfullhashraw}{15ad62d8fc1ba14636e36aa56e369dd5}
+      \field{sortinit}{П}
+      \field{sortinithash}{b60c3989b0a91e15e157f5b4997c35c7}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{СССР}
+      \field{day}{14}
+      \field{heading}{Патент №1642100}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{4}
+      \field{pagetotal}{3 с.~: ил.}
+      \field{publication}{Бюл. № 14}
+      \field{publicationday}{15}
+      \field{publicationmonth}{4}
+      \field{publicationyear}{1991}
+      \field{requestnumber}{4678533/29}
+      \field{title}{Позиционный пневмопривод}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{рабинович1973системы}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=fee47e9e4472a9ae08282191939abd33}{%
+           family={Рабинович},
+           familyi={Р\bibinitperiod},
+           given={А.\bibnamedelimi Н.},
+           giveni={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Техника}%
+      }
+      \strng{namehash}{fee47e9e4472a9ae08282191939abd33}
+      \strng{fullhash}{fee47e9e4472a9ae08282191939abd33}
+      \strng{fullhashraw}{fee47e9e4472a9ae08282191939abd33}
+      \strng{bibnamehash}{fee47e9e4472a9ae08282191939abd33}
+      \strng{authorbibnamehash}{fee47e9e4472a9ae08282191939abd33}
+      \strng{authornamehash}{fee47e9e4472a9ae08282191939abd33}
+      \strng{authorfullhash}{fee47e9e4472a9ae08282191939abd33}
+      \strng{authorfullhashraw}{fee47e9e4472a9ae08282191939abd33}
+      \field{sortinit}{Р}
+      \field{sortinithash}{72653a62bb3cb54ced08865870aff9d6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{pagetotal}{437}
+      \field{title}{Системы управления автоматических машин}
+      \field{year}{1973}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{страхович:прикладная_газодинамика}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1a2c62e4e2ee45c8ddf6a81977661400}{%
+           family={Страхович},
+           familyi={С\bibinitperiod},
+           given={К.\bibnamedelimi И.},
+           giveni={К\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М., ОНТИ}%
+      }
+      \strng{namehash}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \strng{fullhash}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \strng{fullhashraw}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \strng{bibnamehash}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \strng{authorbibnamehash}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \strng{authornamehash}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \strng{authorfullhash}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \strng{authorfullhashraw}{1a2c62e4e2ee45c8ddf6a81977661400}
+      \field{sortinit}{С}
+      \field{sortinithash}{e581ee5e052c6c8e9beb0cf2da905808}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Прикладная газодинамика}
+      \field{year}{1937}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{трофимов:a}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6595e43fdf1c8c820437a066ef1ef00b}{%
+           family={Трофимов},
+           familyi={Т\bibinitperiod},
+           given={О.\bibnamedelimi Н.},
+           giveni={О\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Машиностроение}%
+      }
+      \strng{namehash}{6595e43fdf1c8c820437a066ef1ef00b}
+      \strng{fullhash}{6595e43fdf1c8c820437a066ef1ef00b}
+      \strng{fullhashraw}{6595e43fdf1c8c820437a066ef1ef00b}
+      \strng{bibnamehash}{6595e43fdf1c8c820437a066ef1ef00b}
+      \strng{authorbibnamehash}{6595e43fdf1c8c820437a066ef1ef00b}
+      \strng{authornamehash}{6595e43fdf1c8c820437a066ef1ef00b}
+      \strng{authorfullhash}{6595e43fdf1c8c820437a066ef1ef00b}
+      \strng{authorfullhashraw}{6595e43fdf1c8c820437a066ef1ef00b}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{pagetotal}{334}
+      \field{title}{Приводы автоматизированного оборудования}
+      \field{year}{1991}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{tugengold:a}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1602c2dcfa7dbd0bcd38dc68d6800bec}{%
+           family={Тугенгольд},
+           familyi={Т\bibinitperiod},
+           given={А.\bibnamedelimi К.},
+           giveni={А\bibinitperiod\bibinitdelim К\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Изд. центр ДГТУ}%
+      }
+      \strng{namehash}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \strng{fullhash}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \strng{fullhashraw}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \strng{bibnamehash}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \strng{authorbibnamehash}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \strng{authornamehash}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \strng{authorfullhash}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \strng{authorfullhashraw}{1602c2dcfa7dbd0bcd38dc68d6800bec}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{pagetotal}{116}
+      \field{title}{Интеллектуальное управление мехатронными технологическими системами}
+      \field{year}{2004}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{филиппов:позиц_след_пневмопривод}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3640dc23312226e1da80d9b55b341add}{%
+           family={Филипов},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi Б},
+           giveni={И\bibinitperiod\bibinitdelim Б\bibinitperiod}}}%
+        {{hash=890eeb094893f4a7ffaf93c00f1b211a}{%
+           family={С.},
+           familyi={С\bibinitperiod},
+           given={Григорьев\bibnamedelima Н.},
+           giveni={Г\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+      }
+      \strng{namehash}{38373c174e919f66635a917d1ab58223}
+      \strng{fullhash}{38373c174e919f66635a917d1ab58223}
+      \strng{fullhashraw}{38373c174e919f66635a917d1ab58223}
+      \strng{bibnamehash}{38373c174e919f66635a917d1ab58223}
+      \strng{authorbibnamehash}{38373c174e919f66635a917d1ab58223}
+      \strng{authornamehash}{38373c174e919f66635a917d1ab58223}
+      \strng{authorfullhash}{38373c174e919f66635a917d1ab58223}
+      \strng{authorfullhashraw}{38373c174e919f66635a917d1ab58223}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Пневматика и гидравлика}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Позиционно-следящий пневмопривод циклового промышленного робота}
+      \field{year}{1981}
+      \field{number}{10}
+      \range{number}{1}
+      \field{pages}{19\bibrangedash 23}
+      \range{pages}{5}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{филипов:тормозные_устройства}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3640dc23312226e1da80d9b55b341add}{%
+           family={Филипов},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi Б.},
+           giveni={И\bibinitperiod\bibinitdelim Б\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М. НИИмаш}%
+      }
+      \strng{namehash}{3640dc23312226e1da80d9b55b341add}
+      \strng{fullhash}{3640dc23312226e1da80d9b55b341add}
+      \strng{fullhashraw}{3640dc23312226e1da80d9b55b341add}
+      \strng{bibnamehash}{3640dc23312226e1da80d9b55b341add}
+      \strng{authorbibnamehash}{3640dc23312226e1da80d9b55b341add}
+      \strng{authornamehash}{3640dc23312226e1da80d9b55b341add}
+      \strng{authorfullhash}{3640dc23312226e1da80d9b55b341add}
+      \strng{authorfullhashraw}{3640dc23312226e1da80d9b55b341add}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{pagetotal}{64}
+      \field{title}{Тормозные устройства пневмоприводов промышленных роботов}
+      \field{year}{1984}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{shortnikov:a}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c879cec72b0345605e1b78b678177b11}{%
+           family={Шортников},
+           familyi={Ш\bibinitperiod},
+           given={Е.\bibnamedelimi Е.},
+           giveni={Е\bibinitperiod\bibinitdelim Е\bibinitperiod}}}%
+      }
+      \strng{namehash}{c879cec72b0345605e1b78b678177b11}
+      \strng{fullhash}{c879cec72b0345605e1b78b678177b11}
+      \strng{fullhashraw}{c879cec72b0345605e1b78b678177b11}
+      \strng{bibnamehash}{c879cec72b0345605e1b78b678177b11}
+      \strng{authorbibnamehash}{c879cec72b0345605e1b78b678177b11}
+      \strng{authornamehash}{c879cec72b0345605e1b78b678177b11}
+      \strng{authorfullhash}{c879cec72b0345605e1b78b678177b11}
+      \strng{authorfullhashraw}{c879cec72b0345605e1b78b678177b11}
+      \field{sortinit}{Ш}
+      \field{sortinithash}{11967b4eaab40d50443e8eae07dc465c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Пневматика и гидравлика}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{К проектированию пневматических сервомеханизмов при учете теплообмена}
+      \field{year}{1973}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{170\bibrangedash 178}
+      \range{pages}{9}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{шюле:техническая_термодинамика}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d2972d73eba9b488e86dc19f93118347}{%
+           family={Шюле},
+           familyi={Ш\bibinitperiod},
+           given={В.},
+           giveni={В\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ОНТИ}%
+      }
+      \strng{namehash}{d2972d73eba9b488e86dc19f93118347}
+      \strng{fullhash}{d2972d73eba9b488e86dc19f93118347}
+      \strng{fullhashraw}{d2972d73eba9b488e86dc19f93118347}
+      \strng{bibnamehash}{d2972d73eba9b488e86dc19f93118347}
+      \strng{authorbibnamehash}{d2972d73eba9b488e86dc19f93118347}
+      \strng{authornamehash}{d2972d73eba9b488e86dc19f93118347}
+      \strng{authorfullhash}{d2972d73eba9b488e86dc19f93118347}
+      \strng{authorfullhashraw}{d2972d73eba9b488e86dc19f93118347}
+      \field{sortinit}{Ш}
+      \field{sortinithash}{11967b4eaab40d50443e8eae07dc465c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Техническая термодинамика}
+      \field{year}{1928}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{1}
+  \datalist[entry]{anyt/global//global/global/global}
+    \entry{patbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=de1afd73a5751bc808effb38004cf7ac}{%
+           family={Технологические\bibnamedelima технологии},
+           familyi={Т\bibinitperiod\bibinitdelim т\bibinitperiod},
+           prefix={заявитель},
+           prefixi={з\bibinitperiod}}}%
+      }
+      \list{credits}{1}{%
+        {патент. поверенный Егорова Г. Б.}%
+      }
+      \strng{authorbibnamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authornamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhashraw}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{holderbibnamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holdernamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhashraw}{de1afd73a5751bc808effb38004cf7ac}
+      \field{sortinit}{З}
+      \field{sortinithash}{1d80b3a15a09c2872443be31e19ee653}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{Российская Федерация}
+      \field{day}{3}
+      \field{heading}{Заявка 1234567 Рос. федерация, МПК\ensuremath{^7} B 64 G 1/00}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{pagetotal}{5 с.~: ил.}
+      \field{prioritycountry}{countryru}
+      \field{priorityday}{1}
+      \field{prioritymonth}{1}
+      \field{prioritynumber}{09/289, 037}
+      \field{priorityyear}{2020}
+      \field{publication}{Бюл. № 7 (I ч.)\midsentence}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{2000108705/28}
+      \field{title}{Многоразовая ракета-носитель}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{prioritydateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorpatent,biblioregistered,bibliofull}
+    \endentry
+    \entry{vakbib2}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=943e7586af5bd904cc47333f7d59a202}{%
+           family={Фамилия4},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authornamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authorfullhash}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \strng{authorfullhashraw}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \field{sortinit}{Н}
+      \field{sortinithash}{38afed4b2dd7a2a56c8bd22996f23af0}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \true{nocite}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{progbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=80232904ede76aacda9b0d162f5a593b}{%
+           family={НИИ\bibnamedelima ГДААДАВБА},
+           familyi={Н\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authornamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhashraw}{f905ebf57d59a975a8416302bc876807}
+      \strng{holderbibnamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holdernamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhashraw}{80232904ede76aacda9b0d162f5a593b}
+      \field{sortinit}{С}
+      \field{sortinithash}{e581ee5e052c6c8e9beb0cf2da905808}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{heading}{Свидетельство о гос. регистрации программы для {ЭВМ}}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{prioritycountry}{countryru}
+      \field{prioritynumber}{1234567890}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{1234567890}
+      \field{title}{foobar}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorprogram,biblioregistered,bibliofull}
+    \endentry
+    \entry{bib1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{1}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorconf,biblioauthorother,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{2}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2012}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{3}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{4}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{wosbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{1}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2011}
+      \true{nocite}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{105\bibrangedash 120}
+      \range{pages}{16}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{2}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2013}
+      \true{nocite}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{scbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{3}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2018}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{99\bibrangedash 102}
+      \range{pages}{4}
+      \field{volume}{2}
+      \range{volume}{1}
+      \keyw{,biblioauthorscopus,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{anyt/global//global/global/global}
+    \entry{patbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=de1afd73a5751bc808effb38004cf7ac}{%
+           family={Технологические\bibnamedelima технологии},
+           familyi={Т\bibinitperiod\bibinitdelim т\bibinitperiod},
+           prefix={заявитель},
+           prefixi={з\bibinitperiod}}}%
+      }
+      \list{credits}{1}{%
+        {патент. поверенный Егорова Г. Б.}%
+      }
+      \strng{authorbibnamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authornamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhashraw}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{holderbibnamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holdernamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhashraw}{de1afd73a5751bc808effb38004cf7ac}
+      \field{sortinit}{З}
+      \field{sortinithash}{1d80b3a15a09c2872443be31e19ee653}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{Российская Федерация}
+      \field{day}{3}
+      \field{heading}{Заявка 1234567 Рос. федерация, МПК\ensuremath{^7} B 64 G 1/00}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{pagetotal}{5 с.~: ил.}
+      \field{prioritycountry}{countryru}
+      \field{priorityday}{1}
+      \field{prioritymonth}{1}
+      \field{prioritynumber}{09/289, 037}
+      \field{priorityyear}{2020}
+      \field{publication}{Бюл. № 7 (I ч.)\midsentence}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{2000108705/28}
+      \field{title}{Многоразовая ракета-носитель}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{prioritydateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorpatent,biblioregistered,bibliofull}
+    \endentry
+    \entry{vakbib2}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=943e7586af5bd904cc47333f7d59a202}{%
+           family={Фамилия4},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authornamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authorfullhash}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \strng{authorfullhashraw}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \field{sortinit}{Н}
+      \field{sortinithash}{38afed4b2dd7a2a56c8bd22996f23af0}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \true{nocite}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{progbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=80232904ede76aacda9b0d162f5a593b}{%
+           family={НИИ\bibnamedelima ГДААДАВБА},
+           familyi={Н\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authornamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhashraw}{f905ebf57d59a975a8416302bc876807}
+      \strng{holderbibnamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holdernamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhashraw}{80232904ede76aacda9b0d162f5a593b}
+      \field{sortinit}{С}
+      \field{sortinithash}{e581ee5e052c6c8e9beb0cf2da905808}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{heading}{Свидетельство о гос. регистрации программы для {ЭВМ}}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{prioritycountry}{countryru}
+      \field{prioritynumber}{1234567890}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{1234567890}
+      \field{title}{foobar}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorprogram,biblioregistered,bibliofull}
+    \endentry
+    \entry{bib1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{1}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorconf,biblioauthorother,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{2}
+      \field{sortinit}{Ф}
+      \field{sortinithash}{b428a16bb8d154b256b1e6c39440f4f9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
