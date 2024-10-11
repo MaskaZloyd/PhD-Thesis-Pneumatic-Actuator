@@ -59,7 +59,7 @@ if [ ! -f "${MAIN_FILE}.tex" ]; then
 fi
 
 # Main compilation loop
-max_iterations=3
+max_iterations=1
 iteration=0
 success=false
 
