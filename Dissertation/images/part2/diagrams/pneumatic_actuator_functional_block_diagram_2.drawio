@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.8.1">
+  <diagram name="Страница — 1" id="CktR_0TfPaB_vj-gk5s1">
+    <mxGraphModel dx="430" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-45" value="&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Система управления&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="380" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-56" value="Регулятор" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kkns_eKxTQr_wzeNhjw6-57" target="Kkns_eKxTQr_wzeNhjw6-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-57" value="конкретный алгоритм управления" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="182" y="250" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-58" value="логика переключения между режимами" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="182" y="320" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-62" value="Управление распределителями" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kkns_eKxTQr_wzeNhjw6-69" target="Kkns_eKxTQr_wzeNhjw6-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-69" value="состояния клапанов&lt;div&gt;\(\{0,1\}\times 4\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="382" y="250" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kkns_eKxTQr_wzeNhjw6-58" target="Kkns_eKxTQr_wzeNhjw6-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-71" value="динамика клапанов&lt;div&gt;\(\tau(du/dt) + u = u^{\text{зад}}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="382" y="320" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-73" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Пневматическая система&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="380" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-74" value="Термодинамические процессы" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kkns_eKxTQr_wzeNhjw6-84" target="Kkns_eKxTQr_wzeNhjw6-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-84" value="массовый расход&lt;div&gt;\(G=\psi(p_1, p_2)C_d F_\text{пр} p_1/\sqrt{RT_1}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="176" y="530" width="198" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkns_eKxTQr_wzeNhjw6-85" value="массовый расход&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\(\mathbf{G} = \psi\)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="182" y="750" width="198" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
