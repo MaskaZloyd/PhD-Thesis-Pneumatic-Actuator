@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="npDiTwrK3X-9mZnQaVme">
+    <mxGraphModel dx="580" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTC89WvsWNrZ1mOsf9iD-1" target="sTC89WvsWNrZ1mOsf9iD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-1" value="ПИД-&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;регулятор&lt;/span&gt;&lt;div&gt;с фильтрацие и анти-насыщением&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTC89WvsWNrZ1mOsf9iD-2" target="sTC89WvsWNrZ1mOsf9iD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-2" value="ШИМ-&lt;div&gt;генератор&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTC89WvsWNrZ1mOsf9iD-4" target="sTC89WvsWNrZ1mOsf9iD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-4" value="Прогноз тормозного пути" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTC89WvsWNrZ1mOsf9iD-7" target="sTC89WvsWNrZ1mOsf9iD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-7" value="Адаптивное&lt;div&gt;торможнеие&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="sTC89WvsWNrZ1mOsf9iD-9" target="sTC89WvsWNrZ1mOsf9iD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-9" value="Селектор&lt;div&gt;режимов&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sTC89WvsWNrZ1mOsf9iD-12" value="Распределители" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="295" y="460" width="125" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

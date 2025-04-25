@@ -1,0 +1,88 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="DDBiCpaZKg7utGjrhJCX">
+    <mxGraphModel dx="1207" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-1" target="gkhu6pyq3_zMlqQ1Dvkf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Получение текущего&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;состояния системы&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-7" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;измерение&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-1" target="gkhu6pyq3_zMlqQ1Dvkf-4">
+          <mxGeometry x="-0.4795" y="-10" relative="1" as="geometry">
+            <mxPoint x="10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-2" target="gkhu6pyq3_zMlqQ1Dvkf-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-2" target="gkhu6pyq3_zMlqQ1Dvkf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Определение&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;предпочтительных&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;режимов&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="456" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-4" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font&gt;положение,&amp;nbsp;&lt;i style=&quot;&quot;&gt;x&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;скорость,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;v&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;давления,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;p&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;p&lt;sub style=&quot;&quot;&gt;2&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;fontSize=14;align=left;" vertex="1" parent="gkhu6pyq3_zMlqQ1Dvkf-6">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-21" value="&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot;&gt;на основе ошибки &lt;i style=&quot;&quot;&gt;e&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left; background-color: transparent;&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left; background-color: transparent;&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="456" y="190" width="264" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$&lt;br&gt;\begin{cases}&lt;br&gt;\text{если } e &amp;gt; \varepsilon_2: [1,0,0,1], [1,0,0,0]\\&lt;br&gt;\text{если } |e| \leq \varepsilon_1: [0,0,0,0]\\&lt;br&gt;\text{если } e &amp;lt; -\varepsilon_2: [0,1,1,0],[0,0,1,0]\\&lt;br&gt;\end{cases}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="478" y="210" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-23" target="gkhu6pyq3_zMlqQ1Dvkf-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Генерация последовательностей&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-25" target="gkhu6pyq3_zMlqQ1Dvkf-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Прогнозирование&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;траектории&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-27" target="gkhu6pyq3_zMlqQ1Dvkf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-27" target="gkhu6pyq3_zMlqQ1Dvkf-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Вычисление целевой&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;функции&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-29" target="gkhu6pyq3_zMlqQ1Dvkf-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Выбор оптимальной&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;последовательности&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkhu6pyq3_zMlqQ1Dvkf-31" target="gkhu6pyq3_zMlqQ1Dvkf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-34" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;переход с след. шагу&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkhu6pyq3_zMlqQ1Dvkf-33">
+          <mxGeometry x="-0.6642" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Применение&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;управляющего воздествия&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-38" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="456" y="300" width="164" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhu6pyq3_zMlqQ1Dvkf-35" value="$$&lt;br&gt;\begin{aligned}&lt;br&gt;J&amp;amp;=Q_1\sum(x-x_i)^2+\\&lt;br&gt;&amp;amp;+Q_2\sum v^2 +\\&lt;br&gt;&amp;amp;+R\sum|\Delta u|&lt;br&gt;\end{aligned}&lt;br&gt;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="142" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

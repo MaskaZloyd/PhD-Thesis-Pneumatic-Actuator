@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <!-- Определение стилей -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#000" />
+    </marker>
+  </defs>
+  
+  <!-- Заголовок -->
+  <text x="400" y="40" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle">Блок-схема алгоритма прогнозного управления</text>
+  
+  <!-- Начало алгоритма -->
+  <rect x="300" y="70" width="200" height="60" rx="20" ry="20" fill="#f0f0f0" stroke="#000" stroke-width="2"/>
+  <text x="400" y="105" font-family="Arial" font-size="16" text-anchor="middle">Начало</text>
+  
+  <!-- Инициализация параметров -->
+  <rect x="300" y="170" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="205" font-family="Arial" font-size="14" text-anchor="middle">Инициализация параметров</text>
+  
+  <!-- Получение текущего состояния системы -->
+  <rect x="300" y="270" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="295" font-family="Arial" font-size="14" text-anchor="middle">Получение текущего</text>
+  <text x="400" y="315" font-family="Arial" font-size="14" text-anchor="middle">состояния системы</text>
+  
+  <!-- Определение предпочтительных режимов -->
+  <rect x="300" y="370" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="395" font-family="Arial" font-size="14" text-anchor="middle">Определение</text>
+  <text x="400" y="415" font-family="Arial" font-size="14" text-anchor="middle">предпочтительных режимов</text>
+  
+  <!-- Генерация последовательностей -->
+  <rect x="300" y="470" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="495" font-family="Arial" font-size="14" text-anchor="middle">Генерация</text>
+  <text x="400" y="515" font-family="Arial" font-size="14" text-anchor="middle">последовательностей</text>
+  
+  <!-- Прогнозирование траекторий -->
+  <rect x="300" y="570" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="595" font-family="Arial" font-size="14" text-anchor="middle">Прогнозирование</text>
+  <text x="400" y="615" font-family="Arial" font-size="14" text-anchor="middle">траекторий</text>
+  
+  <!-- Вычисление стоимости -->
+  <rect x="300" y="670" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="695" font-family="Arial" font-size="14" text-anchor="middle">Вычисление</text>
+  <text x="400" y="715" font-family="Arial" font-size="14" text-anchor="middle">целевой функции</text>
+  
+  <!-- Выбор лучшей последовательности -->
+  <rect x="300" y="770" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="795" font-family="Arial" font-size="14" text-anchor="middle">Выбор оптимальной</text>
+  <text x="400" y="815" font-family="Arial" font-size="14" text-anchor="middle">последовательности</text>
+  
+  <!-- Применение управляющего воздействия -->
+  <rect x="300" y="870" width="200" height="60" fill="#d4ebf2" stroke="#000" stroke-width="2"/>
+  <text x="400" y="895" font-family="Arial" font-size="14" text-anchor="middle">Применение первого</text>
+  <text x="400" y="915" font-family="Arial" font-size="14" text-anchor="middle">управляющего воздействия</text>
+  
+  <!-- Соединения между блоками -->
+  <line x1="400" y1="130" x2="400" y2="170" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="230" x2="400" y2="270" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="330" x2="400" y2="370" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="430" x2="400" y2="470" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="530" x2="400" y2="570" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="630" x2="400" y2="670" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="730" x2="400" y2="770" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="830" x2="400" y2="870" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Обратная связь -->
+  <path d="M 400 930 L 400 950 L 200 950 L 200 300 L 300 300" stroke="#000" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="250" y="970" font-family="Arial" font-size="14" text-anchor="middle">Переход к следующему шагу</text>
+  
+  <!-- Блоки подробностей справа -->
+  <rect x="550" y="270" width="200" height="100" fill="#f8e2d4" stroke="#000" stroke-width="2" rx="5" ry="5"/>
+  <text x="650" y="295" font-family="Arial" font-size="12" text-anchor="middle">Измерение:</text>
+  <text x="650" y="315" font-family="Arial" font-size="12" text-anchor="middle">- Положение (x)</text>
+  <text x="650" y="335" font-family="Arial" font-size="12" text-anchor="middle">- Скорость (v)</text>
+  <text x="650" y="355" font-family="Arial" font-size="12" text-anchor="middle">- Давления (p₁, p₂)</text>
+  <line x1="500" y1="300" x2="550" y2="300" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  
+  <rect x="550" y="390" width="200" height="100" fill="#f8e2d4" stroke="#000" stroke-width="2" rx="5" ry="5"/>
+  <text x="650" y="415" font-family="Arial" font-size="12" text-anchor="middle">На основе ошибки (e):</text>
+  <text x="650" y="435" font-family="Arial" font-size="12" text-anchor="middle">- Если e > ε₂: [1,0,0,1], [1,0,0,0]</text>
+  <text x="650" y="455" font-family="Arial" font-size="12" text-anchor="middle">- Если |e| ≤ ε₁: [0,0,0,0]</text>
+  <text x="650" y="475" font-family="Arial" font-size="12" text-anchor="middle">- Если e < -ε₂: [0,1,1,0], [0,0,1,0]</text>
+  <line x1="500" y1="400" x2="550" y2="400" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  
+  <rect x="550" y="590" width="200" height="100" fill="#f8e2d4" stroke="#000" stroke-width="2" rx="5" ry="5"/>
+  <text x="650" y="615" font-family="Arial" font-size="12" text-anchor="middle">Для каждой последовательности:</text>
+  <text x="650" y="635" font-family="Arial" font-size="12" text-anchor="middle">- Симуляция движения</text>
+  <text x="650" y="655" font-family="Arial" font-size="12" text-anchor="middle">- Расчет давлений</text>
+  <text x="650" y="675" font-family="Arial" font-size="12" text-anchor="middle">- Прогноз траектории</text>
+  <line x1="500" y1="600" x2="550" y2="600" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  
+  <rect x="550" y="690" width="200" height="100" fill="#f8e2d4" stroke="#000" stroke-width="2" rx="5" ry="5"/>
+  <text x="650" y="715" font-family="Arial" font-size="12" text-anchor="middle">J = Q₁·Σ(x-xᵢ)² + </text>
+  <text x="650" y="735" font-family="Arial" font-size="12" text-anchor="middle">+ Q₂·Σv² + </text>
+  <text x="650" y="755" font-family="Arial" font-size="12" text-anchor="middle">+ R·Σ|Δu|</text>
+  <line x1="500" y1="700" x2="550" y2="700" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+</svg>
