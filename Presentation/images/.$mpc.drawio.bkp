@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="cn9Pbhil55SfpPsUw8UA">
+    <mxGraphModel dx="696" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BSyK09EKYatqEkYVccjK-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="477" y="90" width="293" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSyK09EKYatqEkYVccjK-4" target="JlMhQX3vw-te0oVLVsW2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSyK09EKYatqEkYVccjK-4" value="Текущее состояние системы&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="490" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSyK09EKYatqEkYVccjK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="1" source="BSyK09EKYatqEkYVccjK-9" target="BSyK09EKYatqEkYVccjK-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSyK09EKYatqEkYVccjK-9" value="Применение первого&#xa;шага управления" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="431" width="128" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSyK09EKYatqEkYVccjK-11" target="BSyK09EKYatqEkYVccjK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSyK09EKYatqEkYVccjK-11" value="Пневмопривод" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="368" y="330" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BSyK09EKYatqEkYVccjK-27" value="Блок прогнозного управления" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="477" y="70" width="173" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BSyK09EKYatqEkYVccjK-32" value="$$x, v, p_1, p_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlMhQX3vw-te0oVLVsW2-1" target="JlMhQX3vw-te0oVLVsW2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-1" value="Генерация последовательности" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="626" y="120" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-3" value="Предсказание&#xa;траектории" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="626" y="200" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JlMhQX3vw-te0oVLVsW2-4" target="JlMhQX3vw-te0oVLVsW2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-4" value="Предсказание&#xa;траектории" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="626" y="280" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlMhQX3vw-te0oVLVsW2-6" target="JlMhQX3vw-te0oVLVsW2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-6" value="Оценка качества траектории" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="626" y="360" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JlMhQX3vw-te0oVLVsW2-8" target="BSyK09EKYatqEkYVccjK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-8" value="Выбор лучшей&#xa;последовательнсти&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="626" y="440" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlMhQX3vw-te0oVLVsW2-10" value="$$u=[u_1, u_2,u_3,u_4]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="658" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
