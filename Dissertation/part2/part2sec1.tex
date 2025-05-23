@@ -166,9 +166,9 @@ $\sigma_2$ -- коэффициент вязкого трения.
 \begin{equation}
 	\label{eq:ch2/support_reaction}
 	R_\text{упор} = \begin{cases}
-		k_\text{упор}(x - x_\text{мин}) + b_\text{упор}\dot{x},  & \text{если } x < x_\text{мин}                       \\
-		0,                                                       & \text{если } x_\text{мин} \leq x \leq x_\text{макс} \\
-		k_\text{упор}(x - x_\text{макс}) + b_\text{упор}\dot{x}, & \text{если } x > x_\text{макс}
+		k_\text{упор}(x - x_\text{мин}) + b_\text{упор}\dot{x},  & \text{если } x < x_\text{мин};                       \\
+		0,                                                       & \text{если } x_\text{мин} \leq x \leq x_\text{макс}; \\
+		k_\text{упор}(x - x_\text{макс}) + b_\text{упор}\dot{x}, & \text{если } x > x_\text{макс},
 	\end{cases}
 \end{equation}
 где $k_\text{упор}$ и $b_\text{упор}$ -- параметры модели, определяющие жесткость и демпфирование силы реакции опоры;
@@ -207,19 +207,20 @@ $dm_i$ -- элементарное изменение массы $i$-го пот
 где $h\,dm$ представляет собой энергию, поступающую с массой газа.
 
 Для идеального газа внутренняя энергия $U = mc_vT$,
-где $c_v$ -- удельная теплоемкость при постоянном объеме. Дифференцируя это выражение:
+где $c_v$ -- удельная теплоемкость при постоянном объеме. После дифференцирования этого выражения имеем:
 \begin{equation}
 	\label{eq:ch2/energy_balance_2}
 	dU = c_vT\,dm + mc_v\,dT.
 \end{equation}
 
-Приравнивая уравнения \eqref{eq:ch2/internal_energy_change} и \eqref{eq:ch2/energy_balance_2}:
+Из уравнений \eqref{eq:ch2/internal_energy_change} и \eqref{eq:ch2/energy_balance_2} следует:
 \begin{equation}
 	\label{eq:ch2/energy_equality}
 	c_vT\,dm + mc_v\,dT = -p\,dV + h\,dm.
 \end{equation}
 
-Для идеального газа удельная энтальпия $h = c_pT$,
+Для идеального газа удельная энтальпия $h$ равна $c_pT$,
+% $h = c_pT$,
 где $c_p$ -- удельная теплоемкость при постоянном давлении.
 Используя соотношение $c_p - c_v = R$ (газовая постоянная), получаем:
 \begin{equation}
@@ -246,7 +247,7 @@ $dm_i$ -- элементарное изменение массы $i$-го пот
 	\label{eq:ch2/final_pressure_system}
 	\begin{cases}
 		\begin{aligned}
-			\frac{dp_1}{dt} & = \frac{\gamma}{V_1}\left(RT_1(G_{1\text{вх}} - G_{1\text{вых}}) - p_1F_1\frac{dx}{dt}\right), \\
+			\frac{dp_1}{dt} & = \frac{\gamma}{V_1}\left(RT_1(G_{1\text{вх}} - G_{1\text{вых}}) - p_1F_1\frac{dx}{dt}\right); \\
 			\frac{dp_2}{dt} & = \frac{\gamma}{V_2}\left(RT_2(G_{2\text{вх}} - G_{2\text{вых}}) + p_2F_2\frac{dx}{dt}\right),
 		\end{aligned}
 	\end{cases}
@@ -262,7 +263,7 @@ $dx/dt$ -- скорость движения поршня.
 	\label{eq:ch2/energy_balance_final}
 	\begin{cases}
 		\begin{aligned}
-			\frac{dT_1}{dt} & = \frac{\gamma-1}{m_1c_v}\left(RT_1(G_{1\text{вх}} - G_{1\text{вых}}) - p_1F_1\frac{dx}{dt}\right), \\
+			\frac{dT_1}{dt} & = \frac{\gamma-1}{m_1c_v}\left(RT_1(G_{1\text{вх}} - G_{1\text{вых}}) - p_1F_1\frac{dx}{dt}\right); \\
 			\frac{dT_2}{dt} & = \frac{\gamma-1}{m_2c_v}\left(RT_2(G_{2\text{вх}} - G_{2\text{вых}}) + p_2F_2\frac{dx}{dt}\right).
 		\end{aligned}
 	\end{cases}
@@ -364,7 +365,7 @@ $f(u)$ -- функция, описывающая зависимость площ
 	\label{eq:ch2/switching_dynamics}
 	\tau \frac{du}{dt} + u = u_{\text{зад}},
 \end{equation}
-где:
+где
 $u$ -- текущее положение запорно-регулирующего элемента;
 $u_{\text{зад}}$ -- заданное положение (0 или 1 для дискретного распределителя);
 $\tau$ -- постоянная времени переключения.

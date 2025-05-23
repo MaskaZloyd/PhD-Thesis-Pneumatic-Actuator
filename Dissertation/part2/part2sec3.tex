@@ -74,8 +74,8 @@
 
 \begin{equation}
 	\begin{cases}
-		\dot{x} = v \\
-		\dot{v} = \frac{1}{M}(p_1F_1 - p_2F_2 - R_\text{тр}(v))
+		\dot{x} = v; \\
+		\dot{v} = \frac{1}{M}(p_1F_1 - p_2F_2 - R_\text{тр}(v)),
 	\end{cases}
 \end{equation}
 где $(x,v)$ -- координаты точки в фазовом пространстве.
@@ -85,8 +85,8 @@
 
 \begin{equation*}
 	\begin{cases}
-		\dot{p}_1 = \frac{\gamma RT_1}{V_1(x)}\left(G_{1,max} - \frac{p_1}{RT_1}F_1\dot{x}\right) \\
-		\dot{p}_2 = \frac{\gamma RT_2}{V_2(x)}\left(-G_{4,max} + \frac{p_2}{RT_2}F_2\dot{x}\right)
+		\dot{p}_1 = \frac{\gamma RT_1}{V_1(x)}\left(G_{1,max} - \frac{p_1}{RT_1}F_1\dot{x}\right); \\
+		\dot{p}_2 = \frac{\gamma RT_2}{V_2(x)}\left(-G_{4,max} + \frac{p_2}{RT_2}F_2\dot{x}\right),
 	\end{cases}
 \end{equation*}
 где $G_{1,max}$ и $G_{4,max}$ -- максимальные массовые расходы через соответствующие распределители.
@@ -118,15 +118,15 @@ $p_\text{п}$, с одновременным падением давления $
 
 \begin{equation}
 	\begin{cases}
-		\dot{p}_1 = \frac{\gamma RT_1}{V_1(x)}\left(G_{1,max} - \frac{p_1}{RT_1}F_1\dot{x}\right) \\
-		\dot{p}_2 = -\frac{\gamma p_2}{V_2(x)}F_2\dot{x}
+		\dot{p}_1 = \frac{\gamma RT_1}{V_1(x)}\left(G_{1,max} - \frac{p_1}{RT_1}F_1\dot{x}\right); \\
+		\dot{p}_2 = -\frac{\gamma p_2}{V_2(x)}F_2\dot{x}.
 	\end{cases}
 \end{equation}
 
 Особенность данного режима заключается в том, что давление в штоковой полости изменяется согласно политропному процессу:
 
 \begin{equation}
-	p_2V_2(x)^n = p_{2,0}V_{2,0}^n = \text{const}
+	p_2V_2(x)^n = p_{2,0}V_{2,0}^n = \text{const},
 \end{equation}
 где $p_{2,0}$ и $V_{2,0}$ -- начальное давление и объем штоковой полости соответственно в момент запирания полости;
 $n$ - показатель политропы.
@@ -205,8 +205,8 @@ $n$ - показатель политропы.
 изолирована, а штоковая соединена с атмосферой. Динамика давлений в данном режиме описывается системой уравнений:
 
 $$\begin{cases}
-		\dot{p}_1 = -\frac{\gamma p_1}{V_1(x)}F_1\dot{x} \\
-		\dot{p}_2 = \frac{\gamma RT_2}{V_2(x)}(-G_{4,max} + \frac{p_2}{RT_2}F_2\dot{x})
+		\dot{p}_1 = -\frac{\gamma p_1}{V_1(x)}F_1\dot{x}; \\
+		\dot{p}_2 = \frac{\gamma RT_2}{V_2(x)}(-G_{4,max} + \frac{p_2}{RT_2}F_2\dot{x}).
 	\end{cases}$$
 
 % На графиках отображенных на рисунке \ref{fig:pressure_comparison} видно, что давление $p_2$ снижается до
@@ -216,7 +216,7 @@ $$\begin{cases}
 характеризуется политропным изменением состояния воздуха в запертой полости:
 
 \begin{equation}
-	p_1V_1(x)^n = p_{1,0}V_{1,0}^n = \text{const}
+	p_1V_1(x)^n = p_{1,0}V_{1,0}^n = \text{const},
 \end{equation}
 где $p_{1,0}$ и $V_{1,0}$ -- начальные значения давления и объема поршневой полости соответственно.
 
@@ -242,7 +242,7 @@ $$\begin{cases}
 Уравнение баланса сил для данного режима имеет вид:
 
 \begin{equation}
-	p_{1,0}\left(\frac{V_{1,0}}{V_1(x)}\right)^nF_1 - p_\text{атм}F_2 = R_\text{тр}(v)
+	p_{1,0}\left(\frac{V_{1,0}}{V_1(x)}\right)^nF_1 - p_\text{атм}F_2 = R_\text{тр}(v),
 \end{equation}
 где $V_1(x) = V_{1,0} + A_1x$ - текущий объем поршневой полости.
 
@@ -286,19 +286,19 @@ $$\begin{cases}
 происходит исключительно за счет изменения объемов полостей и описывается системой уравнений:
 
 $$\begin{cases}
-		\dot{p}_1 = -\frac{\gamma p_1}{V_1(x)}F_1\dot{x} \\
-		\dot{p}_2 = -\frac{\gamma p_2}{V_2(x)}F_2\dot{x}
+		\dot{p}_1 = -\frac{\gamma p_1}{V_1(x)}F_1\dot{x}; \\
+		\dot{p}_2 = -\frac{\gamma p_2}{V_2(x)}F_2\dot{x}.
 	\end{cases}$$
 
-% На графиках изменения давлений, согласно рисунку \ref{fig:pressure_comparison}, 
+% На графиках изменения давлений, согласно рисунку \ref{fig:pressure_comparison},
 
 В данном режиме наблюдается характерное
 политропное изменение состояния воздуха в обеих полостях, описываемое уравнениями:
 
 \begin{equation}
 	\begin{cases}
-		p_1V_1(x)^n = p_{1,0}V_{1,0}^n = \text{const} \\
-		p_2V_2(x)^n = p_{2,0}V_{2,0}^n = \text{const}
+		p_1V_1(x)^n = p_{1,0}V_{1,0}^n = \text{const}; \\
+		p_2V_2(x)^n = p_{2,0}V_{2,0}^n = \text{const},
 	\end{cases}
 \end{equation}
 где $p_{1,0}$, $V_{1,0}$ и $p_{2,0}$, $V_{2,0}$ -- начальные значения давлений и объемов поршневой и штоковой полостей соответственно.
@@ -307,7 +307,7 @@ $$\begin{cases}
 поддерживается пневматической жёсткостью, создаваемой сжатым воздухом в изолированных полостях. Баланс сил в данном режиме описывается уравнением:
 
 \begin{equation}
-	p_1F_1 - p_2F_2 = R_\text{тр}(v)
+	p_1F_1 - p_2F_2 = R_\text{тр}(v).
 \end{equation}
 
 \begin{figure}[htbp]
@@ -351,7 +351,7 @@ $$\begin{cases}
 Математическое описание движения в окрестности положения равновесия может быть получено линеаризацией уравнений движения:
 
 \begin{equation}
-	M\ddot{x} + \left(\frac{\gamma p_{1,0}F_1^2}{V_{1,0}} + \frac{\gamma p_{2,0}F_2^2}{V_{2,0}}\right)x + \nu\dot{x} = 0
+	M\ddot{x} + \left(\frac{\gamma p_{1,0}F_1^2}{V_{1,0}} + \frac{\gamma p_{2,0}F_2^2}{V_{2,0}}\right)x + \nu\dot{x} = 0,
 \end{equation}
 где $\nu$ -- коэффициент вязкого трения. Существенное преобладание силы трения над пневматической жёсткостью
 ($\nu \gg \sqrt{M\left(\frac{\gamma p_{1,0}F_1^2}{V_{1,0}} + \frac{\gamma p_{2,0}F_2^2}{V_{2,0}}\right)}$) обуславливает апериодический характер движения системы.
